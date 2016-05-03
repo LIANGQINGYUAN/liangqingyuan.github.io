@@ -1,0 +1,120 @@
+<html>
+  <head>
+	<title>Hello World !</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+	<style type="text/css">
+	  .tabel1 {	
+			  border:5px ;
+			  solid blue;
+			  position:fixed;
+			  right:100px;
+			  bottom:50px;
+			  }
+	  .first_web{
+			  color:red;
+			  font-size:70px;
+			  width:200px;
+		      height:200px;
+			  position:fixed;
+			  left:100px;
+			  top:0px;
+			}
+	  .one{ width:1000px; height:100px;  margin:0 auto;}
+	 
+	</style>
+		
+  </head>
+  <body bgcolor="green">
+  <div class="one">
+    <h1 class="first_web">我的第一个web页面</h1>
+	<p>欢迎来到我的第一个Web页面，接下来我将给你介绍一下HTML的标签和Css的基础。	</p>
+	<h1>什么是<a href="http://baike.baidu.com/subview/15916/5236733.htm" title="搜索CSS" target="_blank">Css</a>？</h1>
+	<img src="http://ico.ooopic.com/ajax/iconpng/?id=102234.png" alt="无法显示图片" title="CSS">
+	<p>&nbsp&nbsp CSS是Cascading Style Sheets的缩写，我们中文称为「串联样式表」</p>
+	  <h2>CSS有甚麼好处？为甚麼要学呢？以下说明几点你就会发现使用CSS的好处：</h2>
+	<img src="http://image20.it168.com/201303_800x800/1368/59618a5d072721d0.jpg" alt="无法显示图片" title="CSS">
+	  <ol>
+		<li>它能让我们更精确的控制网页版面的文字、背景、字型等...</li>
+		<li>它能让我们只修正一个CSS文件，便可同时更新众多的网页版面外观及格式。</li>
+		<li>它可以使html的文件内码更精简，缩小档案下载的速度。</li>
+		<li>适用於各种作业平台。</li>
+	  </ol>
+	
+	  
+	<h1>什么是<a href="http://baike.baidu.com/link?url=POBBvck1DY3lNASW-VYQy2Im7uPV94LKldyvTRuQQAmOyMhbGw93hVqUC4pHyQ-xCXw9fmJsYoAIir-NhY_6Uq" title="搜索HTML" target="_blank">HTML？</a></h1>
+	<img src="http://s6.51cto.com/wyfs02/M00/6D/76/wKioL1VlI26g_PW2AACuOGjgyHw520.jpg" alt="无法显示图片" title="HTML">
+	<p>&nbsp&nbspHTML是网络的通用语言,一种简单、通用的全置标记语言。它允许网页制作人建立
+	文本与图片相结合的复杂页面，这些页面可以被网上任何其他人浏览到，无论使用的
+	是什么类型的电脑或浏览器。神奇吗?一点都不神奇,因为现在你看到的就是这种语言
+	写的页面.</p> 
+    <img src="http://d.lanrentuku.com/down/png/0905/Bluetooth_HTML/Regular_Document-Code-HTML.png" alt="无法显示图片" title="HTML">	
+	  <h2>HTML的基本构架和特点</h2>   
+	   <ol>
+		  <li>HTML是Hypertext Markup Language的英文缩写, 即超文本标记语言</li>
+		  <li>HTML语言是一种标记语言,不需要编译,直接由浏 HTML语言是一种标记语言,不需要编译,直接由浏览器执行</li>
+		  <li>HTML文件是一个文本文件,包含了一些HTML元素, HTML文件是一个文本文件,包含了一些HTML元素,标签等.</li>
+		  <li>HTML文件必须使用html或htm为文件名后缀</li>
+		  <li>HTML是大小写不敏感的,HTML与html是一样的(但一般用小写)</li>
+	   </ol>
+	<h1>Html和CSS的关系</h1>
+	<p>&nbsp&nbsp学习web前端开发基础技术需要掌握：HTML、CSS、JavaScript语言。下面我们就来了解下这三门技术都是用来实现什么的：</p>
+	   <ol>
+	      <li> HTML是网页内容的载体。内容就是网页制作者放在页面上想要让用户浏览的信息，可以包含文字、图片、视频等。</li>
+		  <li>CSS样式是表现(外观控制)。就像网页的外衣。比如，标题字体、颜色变化，或为标题加入背景图片、边框等。所有这些用来改变内容外观的东西称之为表现。</li>
+		  <li> JavaScript是用来实现网页上的特效效果。如：鼠标滑过弹出下拉菜单。或鼠标滑过表格的背景颜色改变。还有焦点新闻（新闻图片）的轮换。
+		       可以这么理解，有动画的，有交互的一般都是用JavaScript来实现的。</li>
+	<div class="tabel1">
+	<h1>HTML标签</h1>
+	  <table >
+	    
+	    <tr>
+		  <th>标签</th>
+		  <th>描述</th>
+		</tr>
+		<tr>
+		  <td>title</td>
+		  <td>标题</td>
+		</tr>
+		<tr>
+		  <td>style</td>
+		  <td>自定义样式</td>
+		</tr>
+		<tr>
+		  <td>p</td>
+		  <td>增加段落</td>
+		</tr>
+		
+		
+		<tr>
+		  <td>div</td>
+		  <td>分块</td>
+		</tr>
+		<tr>
+		  <td>img</td>
+		  <td>加入图片</td>
+		</tr>
+		<tr>
+		  <td>a</td>
+		  <td>加入链接</td>
+		</tr>
+		<tr>
+		  <td>script</td>
+		  <td>客户端脚本</td>
+		</tr>
+		<tr>
+		  <td>q</td>
+		  <td>引用短文本</td>
+		</tr>
+		<tr>
+		  <td>strong</td>
+		  <td>表强调</td>
+		</tr>
+		<tr>
+		  <td>···</td>
+		  <td>···</td>
+		</tr>
+	  </table>
+	  </div>
+ </div>	  
+ </body>
+</html>
