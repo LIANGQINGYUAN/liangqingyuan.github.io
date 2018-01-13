@@ -1,5 +1,2 @@
-/_site
-*.gem
+_site
 .sass-cache
-Gemfile.lock
-_sample-config.yml
