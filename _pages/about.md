@@ -10,20 +10,27 @@ redirect_from:
 
 Welcome to Qingyuan Liang's home on the web!
 
+**Email**: liangqy@pku.edu.cn
+
 # Education
 * B.S. in Guangzhou University of Chinese Medicine, 09/2015~06/2019
 * M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
 * Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
 
+
+# Research Interests
+
+Code Generation; Software Engineering
+
 # Publications
 
-[IJCAI 22] **Qingyuan Liang**, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang. Lyra: A Benchmark for Turducken-Style Code Generation[C]. Proceedings of the 31st International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI), 2022. [pdf](https://arxiv.org/abs/2108.12144)
+- [IJCAI-ECAI'22] **Qingyuan Liang**, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang. **Lyra: A Benchmark for Turducken-Style Code Generation**. [pdf](https://arxiv.org/abs/2108.12144)[Code](https://github.com/LIANGQINGYUAN/Lyra)
 
-[Sci Sin Inform (Chinese)] **Qingyuan Liang**, Qingyuan Liang, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu. A survey of deep learning based text-to-sql generation (in chinese). Sci Sin Inform, page 1–30, 202. [pdf](https://doi.org/10.1360/SSI-2021-0316)
+- [Sci Sin Inform (Chinese)] **A survey of deep learning based text-to-sql generation (in chinese)**. **Qingyuan Liang**, Qingyuan Liang, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu. 
 
 
 
-# Work experience
+# Work Experience
 * 09/2019~06/2021: Internship
   * Key Laboratory of High Confidence Software Technologies, Peking University
   * Duties included: Research on Code Generation
@@ -33,3 +40,4 @@ Welcome to Qingyuan Liang's home on the web!
   * Huawei Cloud Computing Technologies Co., Ltd.
   * Duties included: Research on Code Generation
   * Supervisor: Professor Qianxiang Wang and Dr. Guangtai Liang
+
