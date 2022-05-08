@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qingyuan Liang"
 title_separator          : "-"
 name                     : &name "Qingyuan Liang"
-description              : &description "Postgraduate"
+description              : &description ""
 url                      : https://liangqingyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LIANGQINGYUAN/liangqingyuan.github.io"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Qingyuan Liang"
   avatar           : "profile.png"
-  bio              : "Rational survival. Poetic inhabitation."
+  bio              : "Rational survival.\n\
+                        Poetic inhabitation."
   location         : "Beijing China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
