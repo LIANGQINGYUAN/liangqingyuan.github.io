@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is Liang Qingyuan's home on the web!
+Welcome to Qingyuan Liang's home on the web!
+
+# Publications
+
+\textbf{Qingyuan Liang}, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang. Lyra: A Benchmark for Turducken-Style Code Generation[C]. Proceedings of the 31st International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI), 2022. [PDF](https://arxiv.org/abs/2108.12144)
+
+
 
 A data-driven personal website
 ======
