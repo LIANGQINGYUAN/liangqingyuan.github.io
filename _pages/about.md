@@ -26,7 +26,7 @@ Code Generation; Software Engineering
 
 - [IJCAI-ECAI'22] **Qingyuan Liang**, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang. **Lyra: A Benchmark for Turducken-Style Code Generation**. [[pdf](https://arxiv.org/abs/2108.12144)] [[Code](https://github.com/LIANGQINGYUAN/Lyra)]
 
-- [Sci Sin Inform (Chinese)] **A survey of deep learning based text-to-sql generation (in chinese)**. **Qingyuan Liang**, Qingyuan Liang, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu. [[pdf](https://doi.org/10.1360/SSI-2021-0316)]
+- [Sci Sin Inform (Chinese)] **Qingyuan Liang**, Qingyuan Liang, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu. **A survey of deep learning based text-to-sql generation (in chinese)**.  [[pdf](https://doi.org/10.1360/SSI-2021-0316)]
 
 
 
