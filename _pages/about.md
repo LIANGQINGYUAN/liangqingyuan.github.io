@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome to Qingyuan Liang's home on the web!
 
-**Email**: liangqy@pku.edu.cn
-
 # Education
 * B.S. in Guangzhou University of Chinese Medicine, 09/2015~06/2019
 * M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
