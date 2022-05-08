@@ -13,7 +13,6 @@ Welcome to Qingyuan Liang's home on the web!
 **Email**: liangqy@pku.edu.cn
 
 <br />
-<br />
 
 # Education
 * B.S. in Guangzhou University of Chinese Medicine, 09/2015~06/2019
@@ -21,14 +20,12 @@ Welcome to Qingyuan Liang's home on the web!
 * Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
 
 <br />
-<br />
 
 # Research Interests
 
 Code Generation; Software Engineering
 
 
-<br />
 <br />
 
 # Publications
@@ -39,7 +36,6 @@ Code Generation; Software Engineering
 
 
 
-<br />
 <br />
 
 # Work Experience
@@ -54,3 +50,4 @@ Code Generation; Software Engineering
   * Duties included: Research on Code Generation
   * Supervisor: Professor Qianxiang Wang and Dr. Guangtai Liang
 
+<br />
