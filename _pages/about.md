@@ -11,13 +11,14 @@ redirect_from:
 Welcome to Qingyuan Liang's home on the web!
 
 <h2 style="display:inline"> Education </h2> 
-* Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
-* M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
-* B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
+- Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
+- M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
+  - Supervised by Prof. Lian Yu
+- B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
 
 <p></p>
 <h2 style="display:inline"> Research Interests </h2> 
-* Code Generation
+- Code Generation
 
 <p></p>
 <h2 style="display:inline"> News </h2> 
