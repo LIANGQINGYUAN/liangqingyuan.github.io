@@ -32,6 +32,7 @@ Code Generation
     <br/>
     <b>Qingyuan Liang</b>, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang.
     <br/>
+		In: <em> proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</em>
 </li>
 
 <li>
@@ -39,6 +40,7 @@ Code Generation
     <br/>
     <b>Qingyuan Liang</b>, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu.
     <br/>
+    <em> SCIENTIA SINICA Informationis, SSI</em>
 </li>
 
 </ol>
