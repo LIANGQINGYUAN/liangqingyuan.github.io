@@ -15,12 +15,13 @@ Welcome to Qingyuan Liang's home on the web!
 * M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
 * Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
 
+-----
 
 # Research Interests
 
-Code Generation; Software Engineering
+Code Generation
 
-
+-----
 
 # Publications
 
@@ -28,7 +29,7 @@ Code Generation; Software Engineering
 
 - [Sci Sin Inform (Chinese)] **Qingyuan Liang**, Qingyuan Liang, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu. **A survey of deep learning based text-to-sql generation (in chinese)**.  [[pdf](https://doi.org/10.1360/SSI-2021-0316)]
 
-
+-----
 
 # Work Experience
 
