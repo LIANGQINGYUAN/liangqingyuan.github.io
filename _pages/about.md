@@ -16,7 +16,7 @@ Welcome to Qingyuan Liang's home on the web!
 * B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
 
 <p>
-<h2 style="display:inline"> Research Interests </h2> <br/><br/>
+<h2 style="display:inline"> Research Interests </h2> <br/>
 Code Generation
 </p>
 
