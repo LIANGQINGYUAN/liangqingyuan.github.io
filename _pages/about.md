@@ -15,18 +15,16 @@ Welcome to Qingyuan Liang's home on the web!
 * M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
 * B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
 
-<p>
-<h2 style="display:inline"> Research Interests </h2> <br><br>
 
-Code Generation
-</p>
+<h2 style="display:inline"> Research Interests </h2> 
+* Code Generation
 
-
+<p></p>
 <h2 style="display:inline"> News </h2> 
 
 - **April, 2022**.  Our paper on code generation for Python program with SQL statements embedded is accepted to IJCAI-ECAI'22.
 
-
+<p></p>
 <h2 style="display:inline"> Publications </h2> 
 
 <ol>
@@ -50,7 +48,7 @@ Code Generation
 
 </ol>
 
-
+<p></p>
 <h2  style="display:inline"> Work Experience </h2> 
 
 * 09/2019~06/2021: Internship
