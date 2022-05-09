@@ -11,16 +11,22 @@ redirect_from:
 Welcome to Qingyuan Liang's home on the web!
 
 # Education
-* B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
-* M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
 * Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
+* M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
+* B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
+
 
 -----
+
 
 # Research Interests
 
 Code Generation
 
+# News
+
+- **April, 2022**.  Our paper on code generation for Python program with SQL statements embedded is accepted to IJCAI-ECAI'22.
+- 
 -----
 
 # Publications
