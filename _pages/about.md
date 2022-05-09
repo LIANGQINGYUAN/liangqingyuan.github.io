@@ -35,6 +35,8 @@ Code Generation
 		In: <em> proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</em>
 </li>
 
+<br/>
+
 <li>
     <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A survey of deep learning based text-to-sql generation (in chinese).</b>  <a href="(https://doi.org/10.1360/SSI-2021-0316">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
