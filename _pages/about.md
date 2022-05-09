@@ -25,8 +25,6 @@ Code Generation
 
 # Publications
 
-- [IJCAI-ECAI'22] **Qingyuan Liang**, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang. **Lyra: A Benchmark for Turducken-Style Code Generation**. [[pdf](https://arxiv.org/abs/2108.12144)] [[Code](https://github.com/LIANGQINGYUAN/Lyra)]
-
 <ol>
 <br/>
 
