@@ -16,8 +16,6 @@ Welcome to Qingyuan Liang's home on the web!
 * B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
 
 
------
-
 
 ## Research Interests
 
@@ -27,7 +25,6 @@ Code Generation
 
 - **April, 2022**.  Our paper on code generation for Python program with SQL statements embedded is accepted to IJCAI-ECAI'22.
 
------
 
 ## Publications
 
@@ -53,7 +50,6 @@ Code Generation
 
 </ol>
 
------
 
 ## Work Experience
 
