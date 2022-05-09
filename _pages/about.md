@@ -31,7 +31,7 @@ Code Generation
 <br/>
 
 <li>
-    <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="(https://arxiv.org/abs/2108.12144">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="(https://arxiv.org/abs/2108.12144">[PDF]</a><a href="(https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang.
     <br/>
