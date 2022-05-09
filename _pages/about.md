@@ -26,7 +26,7 @@ Code Generation
 # News
 
 - **April, 2022**.  Our paper on code generation for Python program with SQL statements embedded is accepted to IJCAI-ECAI'22.
-- 
+
 -----
 
 # Publications
