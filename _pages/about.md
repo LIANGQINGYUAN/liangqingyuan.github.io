@@ -33,7 +33,7 @@ Welcome to Qingyuan Liang's home on the web!
 <li>
     <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="https://arxiv.org/abs/2108.12144">[PDF]</a> <a href="https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
-    <b>Qingyuan Liang</b>, [Zeyu Sun](https://zysszy.github.io), [Qihao Zhu](https://pkuzqh.github.io/), [Wenjie Zhang](https://w-j-zhang.github.io/), Lian Yu, [Yingfei Xiong](https://xiongyingfei.github.io/), [Lu Zhang](http://sei.pku.edu.cn/~zhanglu/).
+    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <a href="https://w-j-zhang.github.io">Wenjie Zhang</a>, Lian Yu, <a href="https://xiongyingfei.github.io">Yingfei Xiong</a>, <a href="http://sei.pku.edu.cn/~zhanglu">Lu Zhang</a>.
     <br/>
 		In: <em> proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</em>
 </li>
