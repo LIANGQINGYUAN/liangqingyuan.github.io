@@ -14,7 +14,7 @@ Welcome to Qingyuan Liang's home on the web!
 - Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
 - M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
   - Supervised by Prof. Lian Yu
-- B.S. in [Guangzhou University of Chinese Medicine](https://en.wikipedia.org/wiki/Guangzhou_University_of_Chinese_Medicine), 09/2015~06/2019
+- B.S. in [Guangzhou University of Chinese Medicine](https://www.gzucm.edu.cn), 09/2015~06/2019
 
 <p></p>
 <h2 style="display:inline"> Research Interests </h2> 
@@ -48,6 +48,11 @@ Welcome to Qingyuan Liang's home on the web!
 </li>
 
 </ol>
+
+
+<p></p>
+<h2  style="display:inline"> Honors & Awards </h2> 
+- 2019, Nominated for Campus Person of the Year, Guangzhou University of Chinese Medicine
 
 <p></p>
 <h2  style="display:inline"> Work Experience </h2> 
