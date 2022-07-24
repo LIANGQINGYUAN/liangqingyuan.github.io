@@ -51,10 +51,6 @@ Welcome to Qingyuan Liang's home on the web!
 
 
 <p></p>
-<h2  style="display:inline"> Honors & Awards </h2> 
-- 2019, Nominated for Campus Person of the Year, Guangzhou University of Chinese Medicine
-
-<p></p>
 <h2  style="display:inline"> Work Experience </h2> 
 
 * 09/2019~06/2021: Internship
