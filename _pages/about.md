@@ -40,7 +40,7 @@ Welcome to Qingyuan Liang's home on the web!
 
 
 <li>
-    <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A Survey of Deep Learning based Text-to-SQL Generation (in chinese).</b>  <a href="https://doi.org/10.1360/SSI-2021-0316">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A Survey of Deep Learning based Text-to-SQL Generation (in chinese).</b>  <a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2021-0316">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu.
     <br/>
