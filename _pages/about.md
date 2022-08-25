@@ -31,7 +31,7 @@ Welcome to Qingyuan Liang's home on the web!
 <ol>
 
 <li>
-    <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="https://arxiv.org/abs/2108.12144">[PDF]</a> <a href="https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="../papers/IJCAI2022_Lyra A Benchmark for Turducken-Style Code Generation.pdf">[PDF]</a> <a href="https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <a href="https://w-j-zhang.github.io">Wenjie Zhang</a>, Lian Yu, <a href="https://xiongyingfei.github.io">Yingfei Xiong</a>, <a href="http://sei.pku.edu.cn/~zhanglu">Lu Zhang</a>.
     <br/>
@@ -40,7 +40,7 @@ Welcome to Qingyuan Liang's home on the web!
 
 
 <li>
-    <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A Survey of Deep Learning based Text-to-SQL Generation (in chinese).</b>  <a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2021-0316">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A Survey of Deep Learning based Text-to-SQL Generation (in chinese).</b>  <a href="../papers/A survey of deep learning based text-to-SQL generation.pdf">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu.
     <br/>
