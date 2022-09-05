@@ -12,6 +12,7 @@ Welcome to Qingyuan Liang's home on the web!
 
 <h2 style="display:inline"> Education </h2> 
 - Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
+  - Supervised by Prof. [Lu Zhang](https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao)
 - M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
   - Supervised by Prof. Lian Yu
 - B.S. in [Guangzhou University of Chinese Medicine](https://www.gzucm.edu.cn), 09/2015~06/2019
@@ -33,7 +34,7 @@ Welcome to Qingyuan Liang's home on the web!
 <li>
     <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="../papers/IJCAI2022_Lyra A Benchmark for Turducken-Style Code Generation.pdf">[PDF]</a> <a href="https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
-    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <a href="https://w-j-zhang.github.io">Wenjie Zhang</a>, Lian Yu, <a href="https://xiongyingfei.github.io">Yingfei Xiong</a>, <a href="http://sei.pku.edu.cn/~zhanglu">Lu Zhang</a>.
+    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <a href="https://w-j-zhang.github.io">Wenjie Zhang</a>, Lian Yu, <a href="https://xiongyingfei.github.io">Yingfei Xiong</a>, <a href="https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao">Lu Zhang</a>.
     <br/>
 		In: <em> proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</em>
 </li>
