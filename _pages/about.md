@@ -50,7 +50,7 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 </li>
 
 <li>
-    <strong style="color:#0b5394">[ACL'25-Finding]</strong> <b>Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?.</b>  <a href="https://github.com/LIANGQINGYUAN/BGA-TwinXSQL">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[ACL'25-Finding]</strong> <b>Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?.</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, Zhao Zhang, <a href="https://zysszy.github.io">Zeyu Sun</a>, Zheng Lin, Qi Luo, Yueyi Xiao, Yizhou Chen, Yuqun Zhang, Haotian Zhang, Lu Zhang, Bin Chen, Yingfei Xiong.
     <br/>
@@ -58,7 +58,7 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 </li>
 
 <li>
-    <strong style="color:#0b5394">[ICSE'24]</strong> <b>GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code.</b> </a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[ICSE'24]</strong> <b>GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code.</b> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <b>Qingyuan Liang</b>, Zeyu Sun, Yingfei Xiong, Lu Zhang.
     <br/>
