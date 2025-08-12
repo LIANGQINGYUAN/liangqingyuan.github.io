@@ -90,7 +90,7 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 </li>
 
 <li>
-    <strong style="color:#0b5394">[ISSTA'24]</strong> <b>Is It Hard to Generate Holistic Commit Message?.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[TOSEM'24]</strong> <b>Is It Hard to Generate Holistic Commit Message?.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
 	Guoqing Wang, Zeyu Sun, Jinhao Dong, Yuxia Zhang, Mingxuan Zhu, <b>Qingyuan Liang</b>, Dan Hao
     <br/>
