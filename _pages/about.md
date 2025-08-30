@@ -57,6 +57,16 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 		In: <em> The 63rd Annual Meeting of the Association for Computational Linguistics</em>
 </li>
 
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'25]</strong> <b>From Cryptic to Clear - Training on LLM Explanations to Detect Smart Contract Vulnerabilities.</b>  <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Yizhou Chen, <a href="https://zysszy.github.io">Zeyu Sun</a>, Guoqing Wang,<b>Qingyuan Liang</b>,  Xiao Yu, Dan Hao.
+    <br/>
+		In: <em> ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+
 <li>
     <strong style="color:#0b5394">[ICSE'24]</strong> <b>GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code.</b> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
