@@ -21,17 +21,31 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 
 <p></p>
 <h2 style="display:inline"> Research Interests </h2> 
-- Code Generation
+- Code Generation, Code Representation, Code LLMs
 
 <p></p>
 <h2 style="display:inline"> News </h2> 
 
-- **April, 2022**.  Our paper on code generation for Python program with SQL statements embedded is accepted to IJCAI-ECAI'22.
+- **August, 2025**.  Several of our papers have been accepted by TOSE and TSE, covering research on code generation, code editing, and code embedding.
+
+- **July, 2025**.  Our paper on the grammar-based code representation has been accepted to ACL2025-Finding.
+
+- **April, 2025**.  Our paper on the code updating task for the XML-SQL program has been accepted to TOSEM.
 
 <p></p>
 <h2 style="display:inline"> Publications </h2> 
 
 <ol>
+
+
+<li>
+    <strong style="color:#0b5394">[TSE'25]</strong> <b>Condor: A Code Discriminator Integrating General Semantics with Code Details.</b>  <a href="https://huggingface.co/datasets/qyliang/CodeNanoFix">[Data]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Zhao Zhang, Chen Liu, Zeyu Sun, Wenjie Zhang, Yizhou Chen, Zixiao Zhao, Qi Luo, Wentao Wang, Yanjie Jiang, Yingfei Xiong, Lu Zhang
+    <br/>
+		In: <em> IEEE Transactions on Software Engineering</em>
+</li>
+
 
 <li>
     <strong style="color:#0b5394">[TSE'25]</strong> <b>Directional Diffusion-Style Code Editing Pre-training.</b>  <a href="https://github.com/LIANGQINGYUAN/DivoT5">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
@@ -50,11 +64,27 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 </li>
 
 <li>
-    <strong style="color:#0b5394">[ACL'25-Finding]</strong> <b>Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?.</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <strong style="color:#0b5394">[ACL'25-Finding]</strong> <b>Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <b>Qingyuan Liang</b>, Zhao Zhang, <a href="https://zysszy.github.io">Zeyu Sun</a>, Zheng Lin, Qi Luo, Yueyi Xiao, Yizhou Chen, Yuqun Zhang, Haotian Zhang, Lu Zhang, Bin Chen, Yingfei Xiong.
     <br/>
 		In: <em> The 63rd Annual Meeting of the Association for Computational Linguistics</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[SCIS]</strong> <b>CupCleaner:  A Hybrid Data Cleaning Approach for Comment Updating.</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Zeyu Sun, Qihao Zhu, Junhao Hu, Yifan Zhao, Yakun Zhang, Lu Zhang.
+    <br/>
+		In: <em> Science China Information Sciences</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'25]</strong> <b>Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Guoqing Wang, Zeyu Sun, Sixiang Ye, Zhihao Gong, Yizhou Chen, Yifan Zhao, <b>Qingyuan Liang</b>, Dan Hao.
+    <br/>
+		In: <em> ACM Transactions on Software Engineering and Methodology</em>
 </li>
 
 
