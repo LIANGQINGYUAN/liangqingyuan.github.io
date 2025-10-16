@@ -26,7 +26,7 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 <p></p>
 <h2 style="display:inline"> News </h2> 
 
-- **August, 2025**.  Several of our papers have been accepted by TOSE and TSE, covering research on code generation, code editing, and code embedding.
+- **August, 2025**.  Several of our papers have been accepted by TOSEM and TSE, covering research on code generation, code editing, and code embedding.
 
 - **July, 2025**.  Our paper on the grammar-based code representation has been accepted to ACL2025-Finding.
 
