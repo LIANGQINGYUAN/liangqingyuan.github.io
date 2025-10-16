@@ -98,6 +98,15 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 
 
 <li>
+    <strong style="color:#0b5394">[TSE'25]</strong> <b>Prompt alchemy: Automatic prompt refinement for enhancing code generation.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, <b>Qingyuan Liang</b>, Zheng Li, Yong Liu
+    <br/>
+		In: <em> IEEE Transactions on Software Engineering</em>
+</li>
+
+
+<li>
     <strong style="color:#0b5394">[ICSE'24]</strong> <b>GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code.</b> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
     <br/>
     <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <b>Qingyuan Liang</b>, Zeyu Sun, Yingfei Xiong, Lu Zhang.
