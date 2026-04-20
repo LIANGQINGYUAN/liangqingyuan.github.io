@@ -3,37 +3,25 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to Qingyuan Liang's home on the web! 
+<span id="about-me"></span>
+I am a Ph.D. student at the School of Computer Science, [Peking University](http://english.pku.edu.cn/) (北京大学计算机学院), advised by Prof. [Lu Zhang](https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao). I obtained my M.S. degree from the School of Software and Microelectronics, Peking University (北京大学软件与微电子学院) in 2022 and my B.S. degree from [Guangzhou University of Chinese Medicine](https://www.gzucm.edu.cn) in 2019.
 
-Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. My research focuses on building smarter code language models by integrating programming language structures, enhancing model understanding of software evolution, and improving dataset quality for code tasks.
+My research focuses on **code intelligence**, specifically building smarter code language models by integrating programming language structures, enhancing model understanding of software evolution, and improving dataset quality for code tasks. I have published 20+ papers at top-tier venues including ICSE, ASE, ACL, TSE, and TOSEM (all CCF-A).
 
-<h2 style="display:inline"> Education </h2> 
-- Ph.D in [Peking University](http://english.pku.edu.cn/), 09/2022~
-  - Supervised by Prof. [Lu Zhang](https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao)
-- M.S. in [Peking University](http://english.pku.edu.cn/), 09/2019~06/2022
-  - Supervised by Prof. Lian Yu
-- B.S. in [Guangzhou University of Chinese Medicine](https://www.gzucm.edu.cn), 09/2015~06/2019
+I have interned at ByteDance, Kuaishou, and Huawei. If you are interested in collaboration, please feel free to email me at [liangqy@pku.edu.cn](mailto:liangqy@pku.edu.cn).
 
-<p></p>
-<h2 style="display:inline"> Research Interests </h2> 
-- Code Generation, Code Representation, Code LLMs
+## 🔥 News {#news}
 
-<p></p>
-<h2 style="display:inline"> News </h2> 
+- *2025.08*: Several of our papers have been accepted by **TOSEM** and **TSE**, covering research on code generation, code editing, and code embedding.
+- *2025.07*: Our paper on the grammar-based code representation has been accepted to **ACL 2025** (Findings).
+- *2025.04*: Our paper on the code updating task for the XML-SQL program has been accepted to **TOSEM**.
 
-- **August, 2025**.  Several of our papers have been accepted by TOSEM and TSE, covering research on code generation, code editing, and code embedding.
-
-- **July, 2025**.  Our paper on the grammar-based code representation has been accepted to ACL2025-Finding.
-
-- **April, 2025**.  Our paper on the code updating task for the XML-SQL program has been accepted to TOSEM.
-
-<p></p>
-<h2 style="display:inline"> Publications </h2> 
+## 📝 Publications {#publications}
 
 <ol>
 
@@ -165,6 +153,25 @@ Hi, I’m a Ph.D. student at the School of Computer Science, Peking University. 
 
 </ol>
 
+## 🏆 Awards {#awards}
 
-<p></p>
+- 2025-2026, Outstanding Graduate of Beijing, China
+- 2025-2026, Outstanding Graduate of Peking University
+- 2025-2026, National Scholarship, Chinese Ministry of Education
+- 2025-2026, Merit Student, Peking University
+- 2025-2026, Exceptional Award for Academic Innovation, Peking University
+- 2022-2023, Award for Scientific Research, Peking University
 
+## 🎓 Education {#education}
+
+- **Ph.D.** in Computer Science, [Peking University](http://english.pku.edu.cn/), 09/2022 ~ present
+  - Supervised by Prof. [Lu Zhang](https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao)
+- **M.S.** in Computer Science, [Peking University](http://english.pku.edu.cn/), 09/2019 ~ 06/2022
+  - Supervised by Prof. Lian Yu
+- **B.S.** in [Guangzhou University of Chinese Medicine](https://www.gzucm.edu.cn), 09/2015 ~ 06/2019
+
+## 💼 Internships {#internships}
+
+- 2025.08-2026.02, ByteDance, Beijing
+- 2024.08-2025.08, Kuaishou Tec., Beijing
+- 2021.10-2022.03, Huawei Tec., Beijing

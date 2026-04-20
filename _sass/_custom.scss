@@ -1,0 +1,269 @@
+/* ==========================================================================
+   Custom Styles - Academic Homepage
+   ========================================================================== */
+
+/* Smooth scroll and offset for sticky nav */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4em;
+}
+
+/* Masthead sticky + style (matches preview .site-nav) */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  animation: none;
+}
+
+.masthead__inner-wrap {
+  max-width: none !important;
+  padding: 0.8em 8em !important;
+}
+
+/* Hide site title in nav (preview doesn't have it) */
+.masthead__menu-item--lg {
+  display: none !important;
+}
+
+/* Nav links horizontal flex layout */
+.greedy-nav .visible-links {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+
+  li {
+    display: block;
+  }
+
+  /* Remove hover underline animation */
+  a:before {
+    display: none !important;
+  }
+}
+
+/* Hide mobile menu button on desktop */
+.greedy-nav button {
+  display: none;
+}
+
+.masthead__menu-item {
+  font-family: $global-font-family;
+  font-weight: 600;
+  font-size: 0.9em;
+  padding: 0;
+
+  a {
+    color: #000;
+    text-decoration: none;
+    transition: color 0.15s;
+
+    &:hover {
+      color: #0b5394;
+    }
+  }
+}
+
+/* Body text color */
+body {
+  color: #000;
+}
+
+/* Overall page refinement */
+.page__content {
+  font-size: 1em;
+  line-height: 1.75;
+
+  h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 0.7em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #eaeaea;
+    color: #000;
+  }
+
+  h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-size: 1.25em;
+  }
+
+  /* Publication list styling */
+  ol {
+    padding-left: 0;
+    list-style: none;
+
+    li {
+      margin-bottom: 0.4em;
+      line-height: 1.65;
+      padding: 0.3em 0;
+      border-bottom: 1px solid #f5f5f5;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      p {
+        margin: 0.2em 0;
+        display: inline;
+      }
+    }
+  }
+
+  /* News / Education lists */
+  ul {
+    padding-left: 0;
+    list-style: none;
+
+    li {
+      margin-bottom: 0.5em;
+      line-height: 1.6;
+      padding-left: 1.2em;
+      position: relative;
+
+      &::before {
+        content: "\2022";
+        position: absolute;
+        left: 0;
+        color: #999;
+      }
+    }
+  }
+
+  /* Italic spacing fix */
+  em {
+    padding-right: 0.15em;
+  }
+
+  /* Links */
+  a {
+    color: #0b5394;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      color: darken(#0b5394, 10%);
+    }
+  }
+}
+
+/* Two-column flex layout — override Susy grid */
+#main {
+  display: flex !important;
+  float: none !important;
+  max-width: none;
+  margin: 0 auto;
+  padding: 2em 8em 4em;
+  gap: 2em;
+}
+
+article.page {
+  flex: 1 !important;
+  float: none !important;
+  width: auto !important;
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin: 0 0 0 200px !important;
+}
+
+.page .page__inner-wrap {
+  float: none !important;
+  width: 100% !important;
+}
+
+/* Sidebar fixed */
+.sidebar.sticky {
+  flex: 0 0 180px;
+  float: none !important;
+  width: auto !important;
+  position: fixed;
+  top: 5em;
+  left: 8em;
+  align-self: flex-start;
+  text-align: left;
+}
+
+.sidebar .author__avatar img {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #f0f0f0;
+  padding: 3px;
+}
+
+.sidebar .author__content {
+  margin-top: 1em;
+}
+
+/* Author profile sidebar refinement */
+.author__name,
+.sidebar .author__name {
+  font-family: $global-font-family;
+  font-size: 1.25em;
+  font-weight: bold;
+  margin: 0.5em 0 0.3em;
+}
+
+.author__bio,
+.sidebar .author__bio {
+  font-size: 0.88em;
+  color: #666;
+  font-style: italic;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.sidebar .author__urls {
+  list-style: none;
+  padding: 0;
+  margin-top: 1em;
+  font-size: 0.9em;
+  text-align: left;
+}
+
+.sidebar .author__urls li {
+  margin-bottom: 0.5em;
+  color: #000;
+}
+
+.sidebar p, .sidebar li {
+  font-size: 0.95em !important;
+  line-height: 1.6;
+  color: #000;
+}
+
+.sidebar .author__urls a {
+  color: #000;
+  text-decoration: none;
+
+  &:hover {
+    color: #0b5394;
+    text-decoration: underline;
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #main {
+    flex-direction: column !important;
+    padding: 1.5em 1em;
+    gap: 1.5em;
+  }
+
+  .sidebar.sticky {
+    position: static;
+    flex: none;
+  }
+
+  article.page {
+    margin: 0 !important;
+  }
+}

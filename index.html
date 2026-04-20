@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qingyuan Liang - Academic Homepage</title>
+<meta name="description" content="Qingyuan Liang, Ph.D. student at Peking University. Research on code intelligence and code language models.">
+
+<!-- Google Fonts: Nunito -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
+<!-- Font Awesome 5 (icons) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css">
+
+<style>
+/* === Reset === */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 4em; }
+body {
+  margin: 0; padding: 0;
+  font-family: 'Nunito', 'Varela Round', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  font-size: 16px; color: #000; background: #fff; line-height: 1.6;
+}
+a { color: #0b5394; text-decoration: none; }
+a:hover { color: #073763; text-decoration: underline; }
+img { max-width: 100%; height: auto; }
+h1, h2, h3, h4, h5, h6 { font-family: inherit; font-weight: bold; line-height: 1.2; }
+
+/* === Navigation === */
+.site-nav {
+  position: sticky; top: 0; z-index: 100;
+  background: #fff; border-bottom: 1px solid #eee;
+  padding: 0.8em 8em;
+}
+.site-nav .nav-inner { display: flex; gap: 2em; }
+.site-nav a {
+  color: #000; text-decoration: none;
+  font-size: 0.9em; font-weight: 600;
+  transition: color 0.15s;
+}
+.site-nav a:hover { color: #0b5394; text-decoration: none; }
+
+/* === Two-column layout === */
+#main {
+  display: flex;
+  max-width: none;
+  margin: 0 auto;
+  padding: 2em 8em 4em;
+  gap: 2em;
+}
+
+/* === Sidebar === */
+.sidebar {
+  flex: 0 0 180px;
+  position: fixed;
+  top: 5em; left: 8em;
+  text-align: left;
+}
+.sidebar .author__avatar img {
+  width: 150px; height: 150px;
+  display: block; margin: 0;
+  border-radius: 50%; object-fit: cover;
+  border: 2px solid #f0f0f0; padding: 3px;
+}
+.sidebar .author__content { margin-top: 1em; }
+.sidebar .author__name {
+  font-size: 1.25em; font-weight: bold;
+  margin: 0.5em 0 0.3em;
+}
+.sidebar .author__bio {
+  font-size: 0.88em; color: #666;
+  font-style: italic; line-height: 1.5; margin: 0;
+}
+.sidebar .author__urls {
+  list-style: none; padding: 0;
+  margin-top: 1em; font-size: 0.9em; text-align: left;
+}
+.sidebar .author__urls li { margin-bottom: 0.5em; color: #000; }
+.sidebar .author__urls a { color: #000; text-decoration: none; }
+.sidebar .author__urls a:hover { color: #0b5394; text-decoration: underline; }
+.sidebar p, .sidebar li { font-size: 0.95em; line-height: 1.6; color: #000; }
+
+/* === Main content === */
+.page {
+  flex: 1;
+  margin: 0 0 0 200px;
+}
+.page__content {
+  font-size: 1em; line-height: 1.75;
+}
+.page__content > p:first-child {
+  font-size: 1.05em; line-height: 1.8; margin-bottom: 1.5em;
+}
+
+/* Section headers */
+.page__content h2 {
+  font-size: 1.4em; font-weight: bold;
+  margin-top: 2em; margin-bottom: 0.7em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaeaea; color: #000;
+}
+
+/* Unordered lists (News, Education, etc.) */
+.page__content ul {
+  padding-left: 0; list-style: none;
+}
+.page__content ul li {
+  margin-bottom: 0.5em; line-height: 1.6;
+  padding-left: 1.2em; position: relative;
+}
+.page__content ul li::before {
+  content: "\2022"; position: absolute; left: 0; color: #999;
+}
+
+/* Ordered list — publication list */
+.page__content ol {
+  padding-left: 0; list-style: none;
+}
+.page__content ol li {
+  margin-bottom: 0.4em; padding: 0.3em 0;
+  border-bottom: 1px solid #f5f5f5; line-height: 1.65;
+}
+.page__content ol li:last-child { border-bottom: none; }
+.page__content ol li p { margin: 0.2em 0; display: inline; }
+
+/* Italic spacing fix */
+.page__content em { padding-right: 0.15em; font-style: italic; }
+
+/* Links in content */
+.page__content a { color: #0b5394; text-decoration: none; }
+.page__content a:hover { color: #073763; text-decoration: underline; }
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .site-nav { padding: 0.8em 1em; }
+  #main {
+    flex-direction: column;
+    padding: 1.5em 1em; gap: 1.5em;
+  }
+  .sidebar {
+    position: static; flex: none;
+    text-align: center;
+  }
+  .sidebar .author__avatar img { margin: 0 auto; }
+  .sidebar .author__urls { text-align: center; }
+  .page { margin: 0; }
+}
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="#">About Me</a>
+    <a href="#news">News</a>
+    <a href="#publications">Publications</a>
+    <a href="#awards">Awards</a>
+    <a href="#education">Education</a>
+    <a href="#internships">Internships</a>
+  </div>
+</nav>
+
+<div id="main" role="main">
+  <div class="sidebar">
+    <div itemscope itemtype="http://schema.org/Person">
+      <div class="author__avatar">
+        <img src="images/profile.png" alt="Qingyuan Liang">
+      </div>
+      <div class="author__content">
+        <h3 class="author__name">Qingyuan Liang</h3>
+        <p class="author__bio">Rational survival.<br>Poetic inhabitation.</p>
+      </div>
+      <div class="author__urls-wrapper">
+        <ul class="author__urls">
+          <li><i class="fas fa-fw fa-map-marker-alt"></i> Beijing, China</li>
+          <li><a href="mailto:liangqy@pku.edu.cn"><i class="fas fa-fw fa-envelope"></i> liangqy@pku.edu.cn</a></li>
+          <li><a href="https://github.com/liangqingyuan"><i class="fab fa-fw fa-github"></i> GitHub</a></li>
+          <li><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JqC1zx0AAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <section class="page__content" itemprop="text">
+
+<p>I am a Ph.D. student at the School of Computer Science, <a href="http://english.pku.edu.cn/">Peking University</a> (&#21271;&#20140;&#22823;&#23398;&#35745;&#31639;&#26426;&#23398;&#38498;), advised by Prof. <a href="https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao">Lu Zhang</a>. I obtained my M.S. degree from the School of Software and Microelectronics, Peking University (&#21271;&#20140;&#22823;&#23398;&#36719;&#20214;&#19982;&#24494;&#30005;&#23376;&#23398;&#38498;) in 2022 and my B.S. degree from <a href="https://www.gzucm.edu.cn">Guangzhou University of Chinese Medicine</a> in 2019.</p>
+
+<p>My research focuses on <strong>code intelligence</strong>, specifically building smarter code language models by integrating programming language structures, enhancing model understanding of software evolution, and improving dataset quality for code tasks. I have published 20+ papers at top-tier venues including ICSE, ASE, ACL, TSE, and TOSEM (all CCF-A).</p>
+
+<p>I have interned at ByteDance, Kuaishou, and Huawei. If you are interested in collaboration, please feel free to email me at <a href="mailto:liangqy@pku.edu.cn">liangqy@pku.edu.cn</a>.</p>
+
+<h2 id="news">&#128293; News</h2>
+<ul>
+  <li><em>2025.08</em>: Several of our papers have been accepted by <strong>TOSEM</strong> and <strong>TSE</strong>, covering research on code generation, code editing, and code embedding.</li>
+  <li><em>2025.07</em>: Our paper on the grammar-based code representation has been accepted to <strong>ACL 2025</strong> (Findings).</li>
+  <li><em>2025.04</em>: Our paper on the code updating task for the XML-SQL program has been accepted to <strong>TOSEM</strong>.</li>
+</ul>
+
+<h2 id="publications">&#128221; Publications</h2>
+<ol>
+
+<li>
+    <strong style="color:#0b5394">[TSE'25]</strong> <b>Condor: A Code Discriminator Integrating General Semantics with Code Details.</b>  <a href="https://huggingface.co/datasets/qyliang/CodeNanoFix">[Data]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Zhao Zhang, Chen Liu, Zeyu Sun, Wenjie Zhang, Yizhou Chen, Zixiao Zhao, Qi Luo, Wentao Wang, Yanjie Jiang, Yingfei Xiong, Lu Zhang
+    <br/>
+    <em>IEEE Transactions on Software Engineering</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TSE'25]</strong> <b>Directional Diffusion-Style Code Editing Pre-training.</b>  <a href="https://github.com/LIANGQINGYUAN/DivoT5">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, Junhao Hu, Yifan Zhao, Yizhou Chen, Mingxuan Zhu, Guoqing Wang, Lu Zhang.
+    <br/>
+    <em>IEEE Transactions on Software Engineering</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'25]</strong> <b>Bipartite-Grammar Aware Pretraining for XML-SQL Code Updating.</b>  <a href="https://github.com/LIANGQINGYUAN/BGA-TwinXSQL">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, Yifan Zhao, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang, Qianxiang Wang.
+    <br/>
+    <em>ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[ACL'25-Finding]</strong> <b>Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Zhao Zhang, <a href="https://zysszy.github.io">Zeyu Sun</a>, Zheng Lin, Qi Luo, Yueyi Xiao, Yizhou Chen, Yuqun Zhang, Haotian Zhang, Lu Zhang, Bin Chen, Yingfei Xiong.
+    <br/>
+    <em>The 63rd Annual Meeting of the Association for Computational Linguistics</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[SCIS]</strong> <b>CupCleaner:  A Hybrid Data Cleaning Approach for Comment Updating.</b>  <a href="https://github.com/LIANGQINGYUAN/GrammarCoder">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Zeyu Sun, Qihao Zhu, Junhao Hu, Yifan Zhao, Yakun Zhang, Lu Zhang.
+    <br/>
+    <em>Science China Information Sciences</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'25]</strong> <b>Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Guoqing Wang, Zeyu Sun, Sixiang Ye, Zhihao Gong, Yizhou Chen, Yifan Zhao, <b>Qingyuan Liang</b>, Dan Hao.
+    <br/>
+    <em>ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'25]</strong> <b>From Cryptic to Clear - Training on LLM Explanations to Detect Smart Contract Vulnerabilities.</b>  <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Yizhou Chen, <a href="https://zysszy.github.io">Zeyu Sun</a>, Guoqing Wang, <b>Qingyuan Liang</b>, Xiao Yu, Dan Hao.
+    <br/>
+    <em>ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TSE'25]</strong> <b>Prompt alchemy: Automatic prompt refinement for enhancing code generation.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, <b>Qingyuan Liang</b>, Zheng Li, Yong Liu
+    <br/>
+    <em>IEEE Transactions on Software Engineering</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[ICSE'24]</strong> <b>GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code.</b> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <b>Qingyuan Liang</b>, Zeyu Sun, Yingfei Xiong, Lu Zhang.
+    <br/>
+    <em>46th International Conference on Software Engineering</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[ASE'24]</strong> <b>Spotting Code Mutation for Predictive Mutation Testing.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Yifan Zhao, Yizhou Chen, Zeyu Sun, <b>Qingyuan Liang</b>, Guoqing Wang, Dan Hao
+    <br/>
+    <em>Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'24]</strong> <b>Automatically Learning a Precise Measurement for Fault Diagnosis Capability of Test Cases.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Yifan Zhao, Zeyu Sun, Guoqing Wang, <b>Qingyuan Liang</b>, Yakun Zhang, Yiling Lou, Dan Hao, Lu Zhang
+    <br/>
+    <em>ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[ISSTA'24]</strong> <b>Commit Artifact Preserving Build Prediction.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, <b>Qingyuan Liang</b>, Dan Hao
+    <br/>
+    <em>Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[TOSEM'24]</strong> <b>Is It Hard to Generate Holistic Commit Message?.</b>   <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    Guoqing Wang, Zeyu Sun, Jinhao Dong, Yuxia Zhang, Mingxuan Zhu, <b>Qingyuan Liang</b>, Dan Hao
+    <br/>
+    <em>ACM Transactions on Software Engineering and Methodology</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[IJCAI-ECAI'22]</strong> <b>Lyra: A Benchmark for Turducken-Style Code Generation.</b>  <a href="papers/IJCAI2022_Lyra A Benchmark for Turducken-Style Code Generation.pdf">[PDF]</a> <a href="https://github.com/LIANGQINGYUAN/Lyra">[CODE]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, <a href="https://zysszy.github.io">Zeyu Sun</a>,  <a href="https://pkuzqh.github.io">Qihao Zhu</a>, <a href="https://w-j-zhang.github.io">Wenjie Zhang</a>, Lian Yu, <a href="https://xiongyingfei.github.io">Yingfei Xiong</a>, <a href="https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao">Lu Zhang</a>.
+    <br/>
+    <em>Proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</em>
+</li>
+
+<li>
+    <strong style="color:#0b5394">[Sci Sin Inform (Chinese)]</strong> <b>A Survey of Deep Learning based Text-to-SQL Generation (in chinese).</b>  <a href="papers/A survey of deep learning based text-to-SQL generation.pdf">[PDF]</a> <strong style="color:#D9D8DC;float:right">CCF-A</strong>
+    <br/>
+    <b>Qingyuan Liang</b>, Qihao Zhu, Zeyu Sun, Lu Zhang, Wenjie Zhang, Yingfei Xiong, Guangtai Liang, and Lian Yu.
+    <br/>
+    <em>SCIENTIA SINICA Informationis, SSI</em>
+</li>
+
+</ol>
+
+<h2 id="awards">&#127942; Awards</h2>
+<ul>
+  <li>2025-2026, Outstanding Graduate of Beijing, China</li>
+  <li>2025-2026, Outstanding Graduate of Peking University</li>
+  <li>2025-2026, National Scholarship, Chinese Ministry of Education</li>
+  <li>2025-2026, Merit Student, Peking University</li>
+  <li>2025-2026, Exceptional Award for Academic Innovation, Peking University</li>
+  <li>2022-2023, Award for Scientific Research, Peking University</li>
+</ul>
+
+<h2 id="education">&#127891; Education</h2>
+<ul>
+  <li><strong>Ph.D.</strong> in Computer Science, <a href="http://english.pku.edu.cn/">Peking University</a>, 09/2022 ~ present</li>
+  <li>Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=JUnz2VcAAAAJ&hl=zh-CN&oi=ao">Lu Zhang</a></li>
+  <li><strong>M.S.</strong> in Computer Science, <a href="http://english.pku.edu.cn/">Peking University</a>, 09/2019 ~ 06/2022</li>
+  <li>Supervised by Prof. Lian Yu</li>
+  <li><strong>B.S.</strong> in <a href="https://www.gzucm.edu.cn">Guangzhou University of Chinese Medicine</a>, 09/2015 ~ 06/2019</li>
+</ul>
+
+<h2 id="internships">&#128188; Internships</h2>
+<ul>
+  <li>2025.08-2026.02, ByteDance, Beijing</li>
+  <li>2024.08-2025.08, Kuaishou Tec., Beijing</li>
+  <li>2021.10-2022.03, Huawei Tec., Beijing</li>
+</ul>
+
+    </section>
+  </article>
+</div>
+
+</body>
+</html>
